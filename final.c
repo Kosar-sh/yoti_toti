@@ -6,6 +6,7 @@
 
 typedef struct USER joind_sb;
 typedef struct POST post_sth;
+// hi there
 
 struct POST
 {
